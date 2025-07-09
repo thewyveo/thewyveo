@@ -11,5 +11,3 @@
 - [a cnn for the svhn dataset](https://github.com/thewyveo/svhn-cnn)
 - [spotify webapp track'r](https://github.com/thewyveo/trackr)
 - [collective intelligence project](https://github.com/thewyveo/collective-intelligence)
----
-![jawa](https://github.com/user-attachments/assets/21745b53-8a2a-450b-a079-b38c8656225a)
