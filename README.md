@@ -1,5 +1,5 @@
-### yo im kayra.
-### 🇹🇷/🇳🇱
+## yo, im kayra.
+## 🇹🇷/🇳🇱
 
 #### 🎓 studying bsc. artificial intelligence @ vu amsterdam
 #### 🎺 proofreader (turkish) for batmod.com
