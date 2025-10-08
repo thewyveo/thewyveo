@@ -1,4 +1,4 @@
-# yo, im kayra. welcome to my profile (:
+# hi, im kayra. welcome to my profile (:
 
 - 🎓 studying bsc. artificial intelligence @ vu amsterdam
 - 🎺 proofreader (turkish) for batmod.com
